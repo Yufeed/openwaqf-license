@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/OWL.jpg" alt="OpenWaqf License Logo" width="250"/>
+</p>
+
 # 📖 OpenWaqf License (OWL-1.0-beta)
 
 The **OpenWaqf License (OWL)** combines open-source freedoms with Islamic waqf principles to protect software, content, data, or any form of intellectual property (IP) as a perpetual public endowment.
